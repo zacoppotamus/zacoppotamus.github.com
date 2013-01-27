@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Zac Ioannidis</title>
+ <link href="izac.us/atom.xml" rel="self"/>
+ <link href="izac.us/"/>
+ <updated>2013-01-27T15:13:04+00:00</updated>
+ <id>izac.us</id>
+ <author>
+   <name>Zac Ioannidis</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Left</title>
+   <link href="izac.us/posts/left"/>
+   <updated>2012-12-12T00:00:00+00:00</updated>
+   <id>izac.us/posts/left</id>
+   <content type="html">&lt;p&gt;Left is a clean, whitespace-happy layout for &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is designed to be an easy layout to modify for your own blog. It was
+extracted from &lt;a href=&quot;http://zachholman.com&quot;&gt;zachholman.com&lt;/a&gt;, which means it was battle-hardened from
+years of posting serious blog posts about emoji and swear words.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;re actually reading an example post right now. See how cool it is? Oh, be
+quiet, you&amp;rsquo;re making me blush.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;You&amp;rsquo;ll want to &lt;a href=&quot;https://github.com/holman/left#readme&quot;&gt;get the code&lt;/a&gt; and read the README to learn how to
+install and set up Left for your own purposes.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;rsquo;m
+&lt;a href=&quot;https://twitter.com/holman&quot;&gt;@holman&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How Web 2.0 Revolutionized the Generation and Consumption of Information</title>
+   <link href="izac.us/posts/web2"/>
+   <updated>2012-11-09T00:00:00+00:00</updated>
+   <id>izac.us/posts/web2</id>
+   <content type="html">&lt;p&gt;Web 2.0 is a term coined in 1999 used to describe the network as a platform &lt;a href=&quot;#ref1&quot;&gt;[1]&lt;/a&gt;, occupied by the users, which introduced the opportunity for them to become both producers and consumers of content. Its main characteristics included new technologies which harnessed the power of the open architecture of the web and facilitated the interconnectedness of users as a consequence of easy content generation and the emergence of social graphs. This, along with the aura of readily available and easily processable data which stem from the inherent nature of the internet, resulted in a huge change in the way information was consumed and created.&lt;/p&gt;
+
+&lt;p&gt;Looking back, one can say that Web 2.0 largely modified the way people communicated and connected. While previously content creators were few and consumers many, with the evolution in this new platform, numerous technologies enabled vast amounts of users to submit their own creations &lt;a href=&quot;#ref2&quot;&gt;[2]&lt;/a&gt;. Blogs and social media helped shape the Web into a multi-way medium and have become the established practice for creating user generated content as well as shifting the emphasis in web cultures away from static and toward dynamic content and user engagement &lt;a href=&quot;#ref3&quot;&gt;[3]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A great paradigm of such a trend is Wikipedia. What initially started as an experiment on human trust on anonymous media such as the Internet, evolved into a revolutionary platform of great social impact for user-generated content and collaboration. Wikipedia is a living example of Linus’ Law that “given enough eyeballs, all bugs are shallow” &lt;a href=&quot;#ref4&quot;&gt;[4]&lt;/a&gt;. Other services, such as Coursera, Khan Academy etc. creatively exploit the open architecture and collective intelligence of the Internet by providing world-class education, free for anyone in the world to benefit from.&lt;/p&gt;
+
+&lt;p&gt;The change in the circulation and generation of data in the Internet became apparent when the interconnectedness between the users of the Web 2.0 was realized and developed upon with the growth of social media networks. With the huge increase of people using such services, the network effect described the value of a service to a user that arose from the number of people using that service. Hence, the more people using particular platforms, the better they got (Metcalfe’s Law) &lt;a href=&quot;#ref5&quot;&gt;[5]&lt;/a&gt;. This in addition to the emergent user behaviour not being predetermined led to ever evolving communities and technologies in ways that no one could predict. Another important aspect that derived from the interconnectedness of users was the study of such networks through social graphs, in which the users were symbolized as nodes. It became possible to understand the sociological implications of content creation &lt;a href=&quot;#ref6&quot;&gt;[6]&lt;/a&gt; and examine interesting underlying patterns in the structure of the data. The liberation of huge amounts of information, which is becoming easily accessible through open APIs could prove to be an important element of the Semantic Web, (or Web 3.0) in the future.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, the vast amount of data on the Internet often leads to an overload of information. Content consumption is becoming passive, good content is often buried under oceans of cat videos and the discovery and digestion of useful information can prove to be a challenge. Furthermore, with  the exponential increase of user generated content, the issue of privacy is becoming a growing concern. The more freedom people have to spread information online, the more likely it is that people’s private secrets will be revealed in ways that can hinder their opportunities in the future &lt;a href=&quot;#ref7&quot;&gt;[7]&lt;/a&gt;. The walls of privacy are coming down on the Internet and a decision will soon have to be made on whether we will maintain the democratic nature of the internet or exploit its huge potential for control &lt;a href=&quot;#ref8&quot;&gt;[8]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It seems as if the keyword during this evolution of the Web is data. Attempts of taking the platform to new directions will be largely dependant on developing new technologies and understanding the relations between each user’s data. Web 2.0 introduced new ways of generating and consuming information and paved the way for a new, social aspect in the ways it was communicated and digested. Users’ ability to personalize the Web and create a truly customized experience is still being realized and ample opportunities exist for new services and concepts to materialize and further change the way we perceive data on the information superhighway.&lt;/p&gt;
+
+&lt;p&gt;Slides: &lt;a href=&quot;https://speakerdeck.com/zacoppotamus/web-2-dot-0-generation-and-consumption-of-information&quot;&gt;https://speakerdeck.com/zacoppotamus/web-2-dot-0-generation-and-consumption-of-information&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;REFERENCES&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a id=&quot;ref1&quot;&gt;&lt;/a&gt; T. O’Reilly. 2005. “Web 2.0: Compact Definition?” [Online].
+Available at: &amp;lt;http://radar.oreilly.com/2005/10/web-20-compact-definition.html [Accessed 3 Nov. 2012]&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref2&quot;&gt;&lt;/a&gt; G. Cormode and B. Krishnamurthy. 2008. “Key differences between Web 1.0 and Web 2.0”, First Monday Journal  [Online]. 13(6).
+&lt;Available at: http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2125/1972&gt; [Accessed 3  Nov. 2012].&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref3&quot;&gt;&lt;/a&gt; D. Beer and R. Burrows. 2007. “Sociology and, of and in Web 2.0: Some Initial Considerations”, Sociological Research Online [Online]. 12(5).
+Available at: &lt;a href=&quot;http://www.socresonline.org.uk/12/5/17.html&quot;&gt;http://www.socresonline.org.uk/12/5/17.html&lt;/a&gt; [Accessed 2 Nov. 2012]&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref4&quot;&gt;&lt;/a&gt; E. Raymond. The Cathedral and the Bazaar. (1st ed.), O’Reilly and Associated, Sebastopol, CA, 1993.&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref5&quot;&gt; &lt;/a&gt; J. Hendler and J. Goldbeck. “Metcalfe’s Law, Web 2.0 and the Semantic Web”, Journal of Web Semantics,      Vol. 6, pp. 14-20. 2008.&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref6&quot;&gt; &lt;/a&gt; A. Broder, R. Kumar, F. Maghoul, P. Raghavan, S. Rajagopalan, R. Stata, A. Tomkins, J. Wiener. 2000. “Graph  Structure in the Web”, Computer Networks, Vol. 33, No. 1-6. (2007), pp 309-320.&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref7&quot;&gt; &lt;/a&gt;D. Solove. 2005. “The Future of Reputation: Gossip, Rumor, and Privacy on the Internet”, Yale University Press,   p.5&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref8&quot;&gt;&lt;/a&gt; L. Lessig. 2006. “Code: And Other Laws Of Cyberspace Version 2.0”,  New York, NY, Basic Books.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;BIBLIOGRAPHY&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A Kamenetz. 2012. “How Coursera, A Free Online Education Service Will School Us All” [Online].
+Available at: http://www.fastcompany.com/3000042/how-coursera-free-online-education-service-will-school-us-all [Accessed 3 Nov. 2012].&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;T. Lee. 2007. “Cyberspace and Information Overload” [Online]
+Available at: &lt;a href=&quot;http://techliberation.com/2007/04/18/cyberspace-and-information-overload/&quot;&gt;http://techliberation.com/2007/04/18/cyberspace-and-information-overload/&lt;/a&gt; [Accessed 2 Nov. 2012].&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;T O’Reilly. “What Is Web 2.0/Design Patterns and Business Models for the Next Generation Of Software” [Online]
+Available at: &lt;a href=&quot;http://oreilly.com/web2/archive/what-is-web-20.html&quot;&gt;http://oreilly.com/web2/archive/what-is-web-20.html&lt;/a&gt; [Accessed 2 Nov. 2012].&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A Doan, R. Ramakrishnan, and A. Halevy. 2011. “Crowdsourcing systems on the World-Wide Web”, Communications of the ACM, Vol. 54, No. 4, p. 86.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;S Lohr. 2009. “The Crowd Is Wise (When It’s Focused)” [Online]
+Available at: &lt;a href=&quot;http://www.nytimes.com/2009/07/19/technology/internet/19unboxed.html&quot;&gt;http://www.nytimes.com/2009/07/19/technology/internet/19unboxed.html&lt;/a&gt; [Accessed 1 Nov. 2012].&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Web_2.0&quot;&gt;http://en.wikipedia.org/wiki/Web_2.0&lt;/a&gt; [Accessed 1 Nov. 2012].&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;R Singel. 2005. “Are You Ready For Web 2.0” [Online]
+Available at: &lt;a href=&quot;http://www.wired.com/science/discoveries/news/2005/10/69114&quot;&gt;http://www.wired.com/science/discoveries/news/2005/10/69114&lt;/a&gt; [Accessed 2 Nov. 2012].&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;S Murugesan. 2007. “Understanding Web 2.0”, IT Professional, Vol. 9, pp. 34-41.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;H Berghel. 1997. “Cyberspace 2000: Dealing With Information Overload”, Communications of the ACM, Vol. 40, No.2, pp 19-24.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;V Bush. 1945. “As We May Think”, Atlantic Monthly, Vol. 176, pp. 101-108.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;E Cohen, B. Krishnamurthy. 2005. “A Short Walk In The Blogistan”, Computer Networks, Vol. 50, No. 5, pp. 615-630.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Herman Hollerith’s Tabulating Machine</title>
+   <link href="izac.us/posts/hollerith"/>
+   <updated>2012-10-28T00:00:00+01:00</updated>
+   <id>izac.us/posts/hollerith</id>
+   <content type="html">&lt;p&gt;The electrical tabulating machine created by Herman Hollerith is considered by many to be among the earliest computers and envisages the premier form of automatic data processing. Although used in smaller scale in the mid 1880s in hospitals and the army, its use in the 1890 US Census revolutionized the way large data was handled, accessed and filtered.&lt;/p&gt;
+
+&lt;p&gt;The 1890 Census was a very important one for the United States, since the Seats in the House of Representatives were to be apportioned, and this procedure relied heavily on the census information, as every state’s representatives were determined based on its population. The Census Bureau faced a difficult challenge since the previous tallying system was deemed inefficient and non-scalable for the boom in population during the previous decade, due to border expansion and immigration.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, Herman Hollerith, an engineering graduate from Columbia University, started developing a prototype machine to handle the sorting of large amounts of data. Hollerith was inspired by the punch cards in the Jacquard loom as well as the “punch photographs” utilized by train conductors to provide a brief description of the passengers’ physical attributes.&lt;/p&gt;
+
+&lt;p&gt;The Electrical Tabulating Machine as it was called, proved to be particularly efficient and was declared το be the method used in the next head count. The system consisted of three components, a pantograph punch, a tabulator and a sorter. Information was punched on the card, in one of the available positions and was then placed on a sensory mechanism connected to the tabulator which had steel spring-loaded pins &lt;a href=&quot;#ref1&quot;&gt;[1]&lt;/a&gt; for each position on the punch card. Where there were holes, the pins would connect with a bed of mercury and affect an electrical contact &lt;a href=&quot;#ref2&quot;&gt;[2]&lt;/a&gt;. Then, one of the forty dials (capable of counting up to 9,999 &lt;a href=&quot;#ref3&quot;&gt;[3]&lt;/a&gt;) on the tabulator matching a specific field on the punch card would increase and the lid of a box would pop open to allow the storage of the cards. The beauty of this system was that the punch cards were essentially binary systems, representing crude binary trees, with the absence or not of holes equating to logical zero or ones respectively. This proved to be advantageous when transferring the data into digital computers &lt;a href=&quot;#ref4&quot;&gt;[4]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Another remarkable feat of the Hollerith Machine was its ability to not only count the population but also the correlation of the data &lt;a href=&quot;#ref5&quot;&gt;[5]&lt;/a&gt; contained among the 40 distinct fields in the punch cards. This proved to be a huge step forwards for statistics and looking back we can pinpoint Hollerith as the forerunner of large scale data processing. His machine also started the trend of computers being used outside of experimental, scientific environments in widespread, practical, real-world problems. In fact, the Electrical Tabulator was licensed and used for censi in Austria, Canada, Russia &lt;a href=&quot;#ref6&quot;&gt;[6]&lt;/a&gt; and variations of it were utilized in freight shipments, commercial bookkeeping and industrial accounting.&lt;/p&gt;
+
+&lt;p&gt;Few people disrupted the course of technology the way Herman Hollerith and his tabulator did. As well as undertaking the seemingly impossible task that was the 1890 US Census and delivering results much sooner than expected, he also saved the government the equivalent of $1 billion (in 1990 dollars) [&lt;a href=&quot;#ref7&quot;&gt;7&lt;/a&gt;,&lt;a href=&quot;#ref8&quot;&gt;8&lt;/a&gt;]. Furthermore, his paradigm showed the rest of the world that using technology for large projects was much more cost-efficient and came with tangible benefits. This of course led to the founding of technical, solution engineering companies, aimed towards both the private and public sectors. One such company was IBM, created from a merge between three others, with one being Hollerith’s. It is truly amazing to think that the whole technological ecosystem of today and the way with which we perceive computers and technology could have been instigated from a single machine.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;REFERENCES&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a id=&quot;ref1&quot;&gt;&lt;/a&gt; &lt;a href=&quot;http://www.i-programmer.info/history/8-people/440-herman-hollerith.html?start=1&quot;&gt;http://www.i-programmer.info/history/8-people/440-herman-hollerith.html?start=1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref2&quot;&gt;&lt;/a&gt; &lt;a href=&quot;http://www.thocp.net/hardware/tabulating_machine.htm#9&quot;&gt;http://www.thocp.net/hardware/tabulating_machine.htm#9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref3&quot;&gt;&lt;/a&gt; The Electrical Tabulating Machine, Herman Hollerith, Journal of the Royal Statistical Society,                 Vol. 57, No. 4 (Dec., 1894), pp. 678-689&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref4&quot;&gt;&lt;/a&gt; &lt;a href=&quot;http://wvegter.hivemind.net/abacus/CyberHeroes/Hollerith.htm&quot;&gt;http://wvegter.hivemind.net/abacus/CyberHeroes/Hollerith.htm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref5&quot;&gt;&lt;/a&gt; &lt;a href=&quot;http://www.columbia.edu/cu/computinghistory/hh/index.html&quot;&gt;http://www.columbia.edu/cu/computinghistory/hh/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref6&quot;&gt;&lt;/a&gt; &lt;a href=&quot;http://www.fi.edu/learn/sci-tech/tabulate/tabulate.php?cts=electricity-computing&quot;&gt;http://www.fi.edu/learn/sci-tech/tabulate/tabulate.php?cts=electricity-computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref7&quot;&gt;&lt;/a&gt; U.S. Census Bureau, 100 Years of Data Processing: The Punchcard Century (Washington, D.C.: U.S. Department of Commerce, 1991), 5-6.&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;ref8&quot;&gt;&lt;/a&gt; The Creation and Destruction of the 1890 Federal Census, Robert L. Dorman, The American Archivist, Vol. 71, No. 2 (Fall-Winter, 2008), pp. 350-383&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;strong&gt;BIBLIOGRAPHY&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The Hollerith Statistical Technique, Irving V. Sollins, Journal of Educational Sociology, Vol. 6, No. 1 (Sep., 1932), pp 43-51&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.census.gov/history/www/innovations/technology/the_hollerith_tabulator.html&quot;&gt;http://www.census.gov/history/www/innovations/technology/the_hollerith_tabulator.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.archives.gov/publications/prologue/1996/spring/1890-census-1.html&quot;&gt;http://www.archives.gov/publications/prologue/1996/spring/1890-census-1.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hollerith’s Electric Tabulating Machine, The Railroad Gazette, April 19, 1805&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.memory.loc.gov&quot;&gt;http://www.memory.loc.gov&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Tabulating_machine&quot;&gt;http://en.wikipedia.org/wiki/Tabulating_machine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/United_States_congressional_apportionment&quot;&gt;http://en.wikipedia.org/wiki/United_States_congressional_apportionment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Herman_Hollerith&quot;&gt;http://en.wikipedia.org/wiki/Herman_Hollerith&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mntl.illinois.edu/docs/holonyak.pdf&quot;&gt;http://mntl.illinois.edu/docs/holonyak.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.id.com.au/2012/australian-census-2011/the-census-drove-the-creation-of-the-modern-computer/&quot;&gt;http://blog.id.com.au/2012/australian-census-2011/the-census-drove-the-creation-of-the-modern-computer/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.fi.edu/learn/sci-tech/tabulate/tabulate.php?cts=electricity-computing&quot;&gt;http://www.fi.edu/learn/sci-tech/tabulate/tabulate.php?cts=electricity-computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www-history.mcs.st-andrews.ac.uk/Biographies/Hollerith.html&quot;&gt;http://www-history.mcs.st-andrews.ac.uk/Biographies/Hollerith.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Essential OS X Apps</title>
+   <link href="izac.us/posts/macosx"/>
+   <updated>2012-09-12T00:00:00+01:00</updated>
+   <id>izac.us/posts/macosx</id>
+   <content type="html">&lt;p&gt;There are some apps that I always recommend to Mac switchers, that I found myself the hard way. Most are free and do their job better than many similar paid apps. For me such apps would be the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://clement.beffa.org/labs/projects/middleclick/&quot;&gt;Middle Click&lt;/a&gt;: When I first switched to Mac was when I bought my first laptop. Being accustomed to the mouse, it was a bit weird for me to navigate the web the way I used to  (usually 20+ tabs open at the same time). While cmd+click was a useful shortcut, I wanted something easily done with a gesture on the trackpad. This is how I discovered MiddleClick, a nifty script running on the background that emulated a middle click by a 3-finger tap. Unfortunately, with the update to Mountain Lion MiddleClick didn’t work so I had to resort to another solution. After a bit of searching, I found BetterTouchTool, which may be a bit heavier but is definitely  more customisable.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.macupdate.com/app/mac/11582/onyx&quot;&gt;Onyx&lt;/a&gt;: This is one of the greatest utilities and I urge anyone to give it a try. It helps you verify and repair disk permissions, run various tasks of system maintenance, such as reindexing Spotlight, deleting caches, profiling your system and messing with various system parameters you could previously only do through the Terminal. I regularly run the automation scripts every 2 weeks, which ensures a much more polished system.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://bowtieapp.com/&quot;&gt;Bowtie&lt;/a&gt;: As stated in the site, Bowtie is a desktop accessory that allows you to control your music playing through iTunes or Spotify, among others, through customisable shortcuts. Also available is real-time Last.fm scrobbling and growl notifications when songs change, along with many themes to show which song is currently playing.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.spotify.com/uk/&quot;&gt;Spotify&lt;/a&gt;: Spotify for me is a revolutionary service that could change the music industry once and for all. While not available in my country at the moment, I wanted to see if the hype was true. I installed a VPN app (&lt;a href=&quot;http://www.tunnelbear.com/&quot;&gt;Tunnelbear&lt;/a&gt;) and logged in through Facebook for the free, ad-supported experience. Now this app is a must-have for me and I will definitely subscribe to the premium version when I move to the UK next  year.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/&quot;&gt;Dropbox&lt;/a&gt;: What more is there to say about Dropbox that hasn’t already been said? I’m currently thinking of starting a Pro subscription, now that they doubled the plans (100 GB for $9.99/month).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.delibarapp.com/&quot;&gt;Delibar&lt;/a&gt;: I use Delibar as a Pinboard client. &lt;a href=&quot;http://pinboard.in/&quot;&gt;Pinboard&lt;/a&gt; is a great service (one-time $10 fee, but definitely worth it), similar to Delicious for saving your bookmarks in one convenient place, with short descriptions and tags.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/cinch/id412529613?mt=12&quot;&gt;Cinch&lt;/a&gt;: Cinch brings the window snapping ability of Windows to the Mac. Great for working side-by-side on documents, especially if you are a web developer.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.sublimetext.com/2&quot;&gt;Sublime Text 2&lt;/a&gt;: Anyone who has witnessed the heated debates on the “best text-editor for programmers” knows that Sublime-Text is the future of text-editors. It’s features include multiple selections, split editing, distraction-free mode, a Vim-mode and full customisation through JSON files.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;em&gt;I’ll keep this list updated for future worthwhile apps.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
