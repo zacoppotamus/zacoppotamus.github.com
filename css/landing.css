@@ -1,0 +1,84 @@
+@charset "UTF-8";
+
+head {
+	position: fixed;
+	top: 0;
+	margin-top: 0px;
+	margin: 0px; 
+	padding: 0px;
+}
+
+.panorama {
+	width:100%;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: 100%;
+
+}
+
+* {
+	margin: 0;
+}
+
+body {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	 -webkit-font-smoothing: antialiased;
+	font-size: 1.1em;
+	color: #333;
+	background-color: #fff;
+	line-height: 25px;
+}
+	
+	.title {
+		padding-top: 0px;
+	}
+	.maintext {
+		border: 0;
+		padding-top: 3%;
+		padding-left: 25%;
+		padding-right: 25%;
+	}
+	.panorama {
+
+	}
+
+	.enter {
+		padding-top: 10%;
+		font-size: 180%;
+
+	}
+	.enter :hover{
+		color: #227ce8;
+	}
+
+	.footer {
+		position: fixed;
+		bottom: 0px
+		
+	}
+
+
+.wrapper {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -4em;
+}
+
+
+h1 {font-family: Helvetica, sans-serif; font-size: 1em; color:#333; font-weight:normal;  padding: 20px 0px 0px 0px;}
+/*h2 {font-family: Helvetica, sans-serif; font-size: 1.5em; color:#333; line-height:26px; font-weight:normal; padding: 5px 0px 10px 0px;}*/
+h3 {font-family: Helvetica, sans-serif; font-size: 18px; color:#666; line-height: 15px; text-indent: 0px; padding: 10px 0px 0px 0px;}
+h4 {font-family: Georgia, "Times New Roman", Times, serif; font-size: 1em; color:#000000;}
+h5 {font-size: 9pt; color:#000000;}
+
+img{}
+
+a:link {color: rgb(0,102,204); font-weight: normal; text-decoration: none;}
+
+#content {min-width: 20em; max-width: 30em; overflow: hidden;
+	margin-top:60px; margin-left:64px; margin-right:14px; margin-bottom:0px;}	
+.entry a:link {color: #303030; text-decoration: none; border-width: 0 0 1px 0; border-style: none none solid none; border-color: #C0C0C0;}
+.entry a:visited {color: #303030; text-decoration: none; border-width: 0 0 1px 0; border-style: none none solid none; border-color: #C0C0C0;}
+.entry a:hover {color: #999; border-width: 0 0 1px 0; border-style: none none solid none; border-color: #C0C0C0; text-decoration: none;}
+.entry strong{font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; color: #555555;}
