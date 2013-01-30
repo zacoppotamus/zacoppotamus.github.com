@@ -8,6 +8,11 @@ body {
 a {
   color: #227ce8; }
 
+* {
+
+  padding: 0;
+}
+
 .sidebar {
   position: fixed;
   left: 15px;
@@ -22,7 +27,7 @@ a {
   .sidebar .avatar {
     padding: 0;
     margin-left: 2px;
-    border-radius: 5px; }
+    border-radius: 8px; }
   .sidebar .name {
     text-transform: uppercase;
     margin: 10px 0 20px 0; }
@@ -61,7 +66,7 @@ a {
 .content {
   margin-left: 140px;
   width: 650px;
-  margin-bottom: 50px; }
+  margin-bottom: 40px; }
   .content h1 {
     color: #333;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
@@ -201,3 +206,12 @@ a {
     font-weight: bold; }
   .content .talk-design .color .white {
     color: #fff; }
+
+ 
+
+#footer {
+  width: 920px;
+  color: #3E423A;
+  font-size: 0.9em;
+  text-align: center;
+}
