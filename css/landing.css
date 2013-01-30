@@ -8,6 +8,16 @@ head {
 	padding: 0px;
 }
 
+a {
+  color: #227ce8; 
+  text-decoration: none; }
+
+a:visited {
+text-decoration: none;
+}
+
+
+
 .panorama {
 	width:100%;
 	background-repeat: no-repeat;
