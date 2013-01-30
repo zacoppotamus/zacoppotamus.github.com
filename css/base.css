@@ -208,10 +208,29 @@ a {
     color: #fff; }
 
  
+ <pre> html, body {height: 100%;}
 
-#footer {
+
+#wrapper {
+  overflow:auto;
+  min-height: 100%;
+  padding-bottom: 150px;
+}  /* must be same height as the footer */
+
+ 
+
+#footer {position: relative;
+
+    margin-top: 50px; /* negative value of footer height */
+    font-size: 0.85em;
+    width: 920px;
+    text-align: center;
+    }
+
+
+/*#footer {
   width: 920px;
   color: #3E423A;
   font-size: 0.9em;
   text-align: center;
-}
+}*/
