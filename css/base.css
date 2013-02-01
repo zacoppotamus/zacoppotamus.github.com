@@ -73,8 +73,9 @@ a:hover {
 
 .content {
   margin-left: 140px;
-  width: 650px;
-  margin-bottom: 40px; }
+  max-width: 41em;
+  margin-right: 2em;
+  margin-bottom: 50px; }
   .content h1 {
     color: #333;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
@@ -216,8 +217,8 @@ a:hover {
     color: #fff; }
 
  
- <pre> html, body {height: 100%;}
-
+/*<pre> html, body {height: 100%;}
+*/
 
 #wrapper {
   overflow:auto;
@@ -229,19 +230,12 @@ a:hover {
 text-decoration: none;
 }
 
-#footer {position: relative;
+#footer {
+    position: relative;
     text-decoration: none;
-    margin-top: 50px; /* negative value of footer height */
+    margin-top: 50px;
     font-size: 0.85em;
-    width: 920px;
+    max-width: 48em;
+    margin-left: 10em;
     text-align: center;
-    }
-
-
-
-/*#footer {
-  width: 920px;
-  color: #3E423A;
-  font-size: 0.9em;
-  text-align: center;
-}*/
+}
