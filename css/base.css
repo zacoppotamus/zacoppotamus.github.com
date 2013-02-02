@@ -69,8 +69,8 @@ a:hover {
 
 .content {
   margin-left: 140px;
-  max-width: 41em;
-  margin-right: 2em;
+  max-width: 50em;
+  margin-right: 1em;
   margin-bottom: 50px; }
   .content h1 {
     color: #333;
@@ -217,7 +217,7 @@ a:hover {
     text-decoration: none;
     margin-top: 3em;
     font-size: 0.85em;
-    max-width: 48em;
+    max-width: 53em;
     margin-left: 10em;
     text-align: center;
 }
