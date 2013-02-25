@@ -16,3 +16,9 @@ How Web 2.0 Revolutionized the Generation and Consumption of Information
 Bitcoins: A (Very) Short Introduction
 ---
 <script async class="speakerdeck-embed" data-id="3f77f960460b01301acd12313815541d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+Adaptrix: Energizing the Future
+---
+This was my team's presentation for the Hi-Tech Enterprise course at the University of Bristol. We thought of an idea, wrote a business plan and pitched it to investors.
+
+<script async class="speakerdeck-embed" data-id="85d24de061a8013038f7123139414c5a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
