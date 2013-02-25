@@ -6,7 +6,7 @@ body {
 }
 
 a {
-  color: #227ce8; 
+  color: #227ce8;
   text-decoration: none;}
 
 a:visited {
@@ -217,10 +217,10 @@ a:hover {
     text-decoration: none;
     margin-top: 3em;
     font-size: 0.85em;
-    max-width: 53em;
-    margin-left: 10em;
+    max-width: 52em;
+    margin-left: 12em;
     text-align: center;
 }
   #footer.a:link {
-      text-decoration: none;
-      }
+    text-decoration: none;
+  }
