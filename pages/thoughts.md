@@ -8,7 +8,7 @@ category: thoughts
 25.2.2013
 ---
 
-Saw **25th Hour** today, which was a movie I'd been meaning to see for a long time. I regretted not doing so earlier. It's a movie about friendship, love and family, and one that moved in a way few have (The end features one of the best closing scenes I have ever seen). 9/10. **Bra** by **Cymande** was a nice song. I must dig into that old Motown stuff once again.
+Saw **25th Hour** today, which was a movie I'd been meaning to see for a long time. I regretted not doing so earlier. It's a movie about friendship, love and family, and one that moved me in a way few have (The end features one of the best closing scenes I have ever seen). 9/10. **Bra** by **Cymande** was a nice song. I must dig into that old Motown stuff once again.
 
 24.2.2013
 ---
