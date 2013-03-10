@@ -1,4 +1,4 @@
-zacoppotamus.github.com
+izac.us
 =======================
 
-blog at g.izac.us while I transfer all content
+www.izac.us
