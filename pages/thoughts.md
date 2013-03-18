@@ -5,6 +5,17 @@ category: thoughts
 ---
 
 
+18.3.2013 - A Computer is a Bicycle for our Minds
+---
+
+A computer is a bicycle for our minds. What a great analogy.
+
+<iframe width="515" height="315" src="http://www.youtube.com/embed/6kalMB8jDnY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+"I think one of the things that really separates us from the high primates is that we’re tool builders. I read a study that measured the efficiency of locomotion for various species on the planet. The condor used the least energy to move a kilometer. And, humans came in with a rather unimpressive showing, about a third of the way down the list. It was not too proud a showing for the crown of creation. So, that didn’t look so good. But, then somebody at Scientific American had the insight to test the efficiency of locomotion for a man on a bicycle. And, a man on a bicycle, a human on a bicycle, blew the condor away, completely off the top of the charts.
+
+And that’s what a computer is to me. What a computer is to me is it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds.”
+
 25.2.2013
 ---
 
@@ -13,17 +24,17 @@ Saw **25th Hour** today, which was a movie I'd been meaning to see for a long ti
 24.2.2013
 ---
 
-Pretty chill day today. Rehearsed and designed some slides for a presentation tomorrow, in which we pitch an idea for a startup to a panel. Saw **On Any Given Sunday**, which I had rented last Monday, but the pace was too fast and I didn't enjoy it. **Oscars** were today as well but I got bored of them pretty quickly. It didn't really help that I didn't have the time to see most of the movies. I am currently reading Imperial Bedrooms by Bret Easton Ellis and really enjoying his trademark use of conjunctions and I am now sure I hate Sundays more than Mondays (see what I did there?). 
+Pretty chill day today. Rehearsed and designed some slides for a presentation tomorrow, in which we pitch an idea for a startup to a panel. Saw **On Any Given Sunday**, which I had rented last Monday, but the pace was too fast and I didn't enjoy it. **Oscars** were today as well but I got bored of them pretty quickly. It didn't really help that I didn't have the time to see most of the movies. I am currently reading Imperial Bedrooms by Bret Easton Ellis and really enjoying his trademark use of conjunctions and I am now sure I hate Sundays more than Mondays (see what I did there?).
 
 23.2.2013
 ---
 
-**Panos** introduced me to this great album by **Jamie Lidell** (self-titled), which I've been listening to non-stop for the past couple days. It is one of the better albums I've heard these months (though nothing compares to the discovery of Moon Safari by **Air**), but what really made my day was [this video](http://vimeo.com/57927567) of a song from the album. In it, Lidell is shown singing surrounded by a plethora of dancing, flickering lights. Which is nothing new. What is new, though, is the [tech aspect](http://www.creativeapplications.net/openframeworks/you-naked-flat-e-for-warp-records-and-jamie-lidell/) of this whole production. The colour, movement and shape of the lights is controlled in real time by a projection mapping system that takes into account Lidell's movements from a motion reactive stand. Reading this blew my mind and reinforced the idea of creative coding as something I would like to do in the future. It seems to be the perfect blend between developing one's artistic sensibilities and geeking out and coding a system from scratch. 
+**Panos** introduced me to this great album by **Jamie Lidell** (self-titled), which I've been listening to non-stop for the past couple days. It is one of the better albums I've heard these months (though nothing compares to the discovery of Moon Safari by **Air**), but what really made my day was [this video](http://vimeo.com/57927567) of a song from the album. In it, Lidell is shown singing surrounded by a plethora of dancing, flickering lights. Which is nothing new. What is new, though, is the [tech aspect](http://www.creativeapplications.net/openframeworks/you-naked-flat-e-for-warp-records-and-jamie-lidell/) of this whole production. The colour, movement and shape of the lights is controlled in real time by a projection mapping system that takes into account Lidell's movements from a motion reactive stand. Reading this blew my mind and reinforced the idea of creative coding as something I would like to do in the future. It seems to be the perfect blend between developing one's artistic sensibilities and geeking out and coding a system from scratch.
 
 22.2.2013
 ---
 
-I'm having troubles getting immersed into and captured by books. I used to read books all the time when I was younger, but now I notice my attention span is shorter and I blame the Internet. An interesting thought is whether it could replace books in the long run. Were academics thought to be recluses and antisocial beings much like (some) programmers? It is increasingly becoming clearer how difficult keeping a balance between a succesful job and a satisfying personal life is. Are the two allowed to merge and overlap? One thing I know for sure is that I never want to stop learning, cultivating new interests, satisfying the artist within, and striving to be the person I envision. That may sound terribly pretentious to some, bullshit to others but it's a thought I make every day.   
+I'm having troubles getting immersed into and captured by books. I used to read books all the time when I was younger, but now I notice my attention span is shorter and I blame the Internet. An interesting thought is whether it could replace books in the long run. Were academics thought to be recluses and antisocial beings much like (some) programmers? It is increasingly becoming clearer how difficult keeping a balance between a succesful job and a satisfying personal life is. Are the two allowed to merge and overlap? One thing I know for sure is that I never want to stop learning, cultivating new interests, satisfying the artist within, and striving to be the person I envision. That may sound terribly pretentious to some, bullshit to others but it's a thought I make every day.
 
 15.2.2013
 ---
