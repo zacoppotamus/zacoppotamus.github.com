@@ -10,8 +10,14 @@ category: projects
 
 [![Screenshot](/images/terminalmdb.png "TerminalMDB")](/images/terminalmdb.png)
 
+[MovieVisualizer](http://github.com/zacoppotamus/MovieVisualization)
+---
+A quick and dirty analysis of the number of films shot in every state.
+
+[![Screenshot](/images/movieVisualizer.png "MovieVisualizer")](/images/movieVisualizer.png)
+
 [Breakout](https://github.com/zacoppotamus/Breakout)
 ---
 [Breakout](https://github.com/zacoppotamus/Breakout) is a reimplementation of the classic Atari game.
 
-[![Screenshot](/images/Breakout1.png "TerminalMDB")](/images/terminalmdb.png)
+[![Screenshot](/images/Breakout1.png "Breakout")](/images/Breakout1.png)
