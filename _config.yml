@@ -13,3 +13,14 @@ description: How d'ya like them apples?
 twitter: zacoppotamus
 github: zacoppotamus
 gravatar_url: http://www.gravatar.com/avatar/06c339b15e9be97f965016fc56eda6fa.png
+
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-32182541-2'
+  getclicky :
+    site_id :

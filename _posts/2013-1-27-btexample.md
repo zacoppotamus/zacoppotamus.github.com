@@ -3,7 +3,7 @@ layout: post
 title: Binary Tree Example
 category: posts
 ---
-This is a binary tree example. I want to see if the code highlighting works. Well, it looks like it. Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit. 
+This is a binary tree example. I want to see if the code highlighting works. Well, it looks like it. Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit.
 
 {% highlight c %}
 #include <stdio.h>
@@ -57,7 +57,7 @@ char* searchByYear(Tree* root, int yr)
 		return searchByYear(root->right,yr);
 	}
 	else if ((root->year)==yr) {
-		return root->name; 
+		return root->name;
 	}
 }
 int main (int argc, char* argv[])

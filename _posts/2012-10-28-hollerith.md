@@ -15,8 +15,8 @@ The Electrical Tabulating Machine as it was called, proved to be particularly ef
 Another remarkable feat of the Hollerith Machine was its ability to not only count the population but also the correlation of the data contained among the 40 distinct fields in the punch cards. This proved to be a huge step forwards for statistics and looking back we can pinpoint Hollerith as the forerunner of large scale data processing. His machine also started the trend of computers being used outside of experimental, scientific environments in widespread, practical, real-world problems. In fact, the Electrical Tabulator was licensed and used for censi in Austria, Canada, Russia and variations of it were utilized in freight shipments, commercial bookkeeping and industrial accounting.
 
 Few people disrupted the course of technology the way Herman Hollerith and his tabulator did. As well as undertaking the seemingly impossible task that was the 1890 US Census and delivering results much sooner than expected, he also saved the government the equivalent of $1 billion (in 1990 dollars). Furthermore, his paradigm showed the rest of the world that using technology for large projects was much more cost-efficient and came with tangible benefits. This of course led to the founding of technical, solution engineering companies, aimed towards both the private and public sectors. One such company was IBM, created from a merge between three others, with one being Hollerith’s. It is truly amazing to think that the whole technological ecosystem of today and the way with which we perceive computers and technology could have been instigated from a single machine.
- 
- 
+
+
 **BIBLIOGRAPHY**
 
 * The Hollerith Statistical Technique, Irving V. Sollins, Journal of Educational Sociology, Vol. 6, No. 1 (Sep., 1932), pp 43-51
