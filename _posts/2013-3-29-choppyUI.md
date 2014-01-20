@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fixing choppy animations and UI on Mac
+title: Fixing Choppy Animations and UI on Mac
 category: posts
 ---
 
