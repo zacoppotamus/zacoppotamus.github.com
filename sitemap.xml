@@ -1,38 +1,69 @@
----
-layout: nil
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <url>
-  	<loc>http://izac.us/</loc>
-  	<lastmod>2013-03-09T12:57:13+00:00</lastmod>
-  </url>
-  <url>
-	  <loc>http://izac.us/main.html</loc>
-	  <lastmod>2013-03-09T12:57:13+00:00</lastmod>
-  </url>
-  <url>
-	  <loc>http://izac.us/index.html</loc>
-	  <lastmod>2013-03-09T12:57:13+00:00</lastmod>
-  </url>
-
-	<url>
-	  <loc>http://izac.us/pages/projects.html</loc>
-	  <lastmod>2013-03-09T12:57:13+00:00</lastmod>
-	</url>
-	<url>
-	  <loc>http://izac.us/pages/thoughts.html</loc>
-	  <lastmod>2013-03-09T12:57:13+00:00</lastmod>
-	</url>
-	<url>
-	  <loc>http://izac.us/pages/talks.html</loc>
-	  <lastmod>2013-03-09T12:57:13+00:00</lastmod>
-	</url>
-
-  <!-- Posts -->
-  {% for post in site.posts %}
-  <url><loc>http://izac.us{{ post.url }}</loc></url>
-  {% endfor %}
-
+<url>
+  <loc>http://izac.us/</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/main.html</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/index.html</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/pages/greekposts.html</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/pages/projects.html</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/pages/thoughts.html</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/pages/talks.html</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/posts/algocheatsheet/</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/posts/choppyUI/</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/posts/newsetup/</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/posts/btexample/</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/posts/OOP/</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/posts/web2/</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/posts/hollerith/</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://izac.us/posts/macosx/</loc>
+  <lastmod>2014-01-21T17:41:57+00:00</lastmod>
+</url>
 </urlset>
