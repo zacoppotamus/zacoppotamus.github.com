@@ -1,0 +1,56 @@
+path
+{
+	-moz-transition: all 0.2;
+	-o-transition: all 0.2;
+	-webkit-transition: all 0.2;
+	transition: all 0.2;
+}
+
+.state
+{
+	text-transform: lowercase;
+	font: 500 48px "Helvetica Neue";
+	fill: #aaa;
+}
+
+div#container
+{
+	position: absolute;
+	text-align: right;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+}
+
+div#container.row1>img
+{
+	width: 90%;
+	height: 24.6%;
+}
+
+div#container.row2>img
+{
+	width: 50%;
+	height: 50.6%;
+}
+
+svg#legend
+{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+#key
+{
+	stroke: black;
+}
+
+img
+{
+	padding-top: 10px;
+	padding-right: 10px;
+}
+
+svg
+{
+	padding-top: 2em;
+}
