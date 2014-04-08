@@ -69,6 +69,7 @@ The Bellman-Ford algorithm solves the single-source shortest paths problem in ti
 The algorithm is based on a priority queue. In the queue, we store the vertices whose distances from the source are not yet settled, keyed on their current distance from the source:
 
 {% highlight python %}
+{% raw %}
 Dijkstra(G,s):
 for each vertex v in G:
 	v.d = float(∞)
@@ -82,6 +83,7 @@ while Q not empty:
 			# Relax, do with ExtractMin()
 			v.d = u.d + weight(u,v)
 			v.pred = u
+{% endraw %}
 {% endhighlight %}
 
 
@@ -97,6 +99,7 @@ Let $$d_{ij}^{(k)}$$ be the weight of a shortest path from *i* to *j* such that 
 If W is the adjacency matrix, we have the following algorithm for computing $$d_{ij}^{(n)}$$ for all pairs *i*, *j*.
 
 {% highlight python %}
+{% raw %}
 FloydWarshall(W):
 d^(0) = W
 for k = 1 to n
@@ -104,6 +107,7 @@ for k = 1 to n
 		for j = i to n
 			d_(ij)^k = min(d_(ij)^(k-1), d_(ik)^(k-1) + d_(kj)^(k-1))
 return d^(n)
+{% endraw %}
 {% endhighlight %}
 
 
@@ -268,9 +272,11 @@ It also satisfies the **heap property**. Each element is less than or equal to e
 A *binary heap* can be implemented efficiently using an array A. We have the following directives:
 
 {% highlight python %}
+{% raw %}
 Parent(i) = floor(i/2)
 Left(i) = 2i
 Right(i) = 2i + 1
+{% endraw %}
 {% endhighlight %}
 
 
@@ -278,6 +284,7 @@ And also the **heapify** operation, which makes sure that the structure also mai
 
 
 {% highlight python %}
+{% raw %}
 Heapify(i):
 
 if Left(i) <= heapsize and A[Left(i)] < A[i]
@@ -289,6 +296,7 @@ if Right(i) <= heapsize and A[Right[i]] < A[smallest]
 if smallest != i
 	swap A[i] and A[smallest]
 	Heapify(smallest)
+{% endraw %}
 {% endhighlight %}
 
 ###Priority Queue
@@ -304,6 +312,7 @@ A priority queue has the following operations:
 **DecreaseKey()** is shown below:
 
 {% highlight python %}
+{% raw %}
 DecreaseKey(x,k):
 if k > A[x.i].key
 	error("New key is larger than old key!")
@@ -311,12 +320,14 @@ A[x.i].key = k
 while x.i > 0 and A[Parent(x.i)].key > A[x.i].key
 	swap A[x.i] and A[Parent(x.i)]
 	x.i = Parent(x.i)
+{% endraw %}
 {% endhighlight %}
 
 
 For **ExtractMin()**, we return the 0th element and replace it with the last element and then we **Heapify()** the tree:
 
 {% highlight python %}
+{% raw %}
 ExtractMin():
 if heapsize < 0
 	error("Heap underflow")
@@ -325,6 +336,7 @@ A[0] = A[heapsize]
 heapsize = heapsize-1
 Heapify(0)
 return min
+{% endraw %}
 {% endhighlight %}
 
 
